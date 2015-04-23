@@ -1,0 +1,128 @@
+/*FILTR*/
+
+.clear{
+	clear:both;
+}
+.filtr{
+
+	margin: 0 auto 10px;
+	clear:both;	
+}
+.newFiltr{
+width: 420px;
+margin-bottom: 15px;
+border: 3px solid black;
+}
+.newFiltr td{
+	border: 1px solid black;
+}
+
+body{
+padding:0px;
+margin:0px;
+}
+td {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#666666;
+}
+pre{
+padding:0px;
+margin:0px;
+}
+input,select,textarea {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#333333;
+	border:1px solid #333333;
+}
+.copyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	text-align:center;
+	color:#ffffff;
+	padding-bottom:12px;
+}
+.copyright a {	color:#ffffff; text-decoration:none;}
+.copyright a:hover { color:#990000; text-decoration:none; }
+.menu{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+background-image:url(images/index_04.gif);
+background-repeat:no-repeat;
+background-position:20px;
+padding-left:32px;
+font-size:11px;
+font-weight:bold;
+color:#426DA0;
+padding-top:6px;
+padding-bottom:6px;
+}
+.menu a{ color:#426DA0;text-decoration:none;}
+.menu a:hover{ color:#2F4C53;text-decoration:none;}
+.top{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+color:#000000;
+}
+.top a{
+color:#000000;
+text-decoration:none;
+}
+.top a:hover{
+color:#009900;
+text-decoration:none;
+}
+.news{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#C9CBCD;
+
+}
+.news a{
+color:#54D8D4;
+text-decoration:none;
+}
+.news a:hover{
+color:#FFFFFF;
+text-decoration:none;
+}
+.body{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#648785;
+
+}
+.body a{ color:#648785; text-decoration:none; }
+.body a:hover{ color:#4E6BB4; text-decoration:none; }
+.footer{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+color:#ffffff;
+text-align:center;
+padding-top:18px;
+padding-bottom:6px;
+}
+.footer a{
+color:#ffffff;
+text-decoration:none;
+}
+.footer a:hover{
+color:#79ECD9;
+text-decoration:none;
+}
+.right { color:#1F99DB;
+padding-left:37px;
+padding-top:8px;
+padding-right:20px;
+}
+.text {
+color:#273E43;
+padding-top:4px;
+padding-bottom:4px;
+padding-right:10px;
+}
+.heading {
+color:#085DBE;
+font-weight:bold;
+font-size:13px;
+}
