@@ -1,6 +1,6 @@
 ﻿<?
 
-$DHB = new PDO('mysql:host=localhost;dbname=urbastroru_all;','urbastroru_all','Urbasergei1982');
+$DHB = new PDO('mysql:host=localhost;dbname=urbastroru_all;','urbastroru_all','');
 $DHB->exec('SET NAMES UTF8');
 $STH = $DHB->prepare('SELECT * FROM shina');
 $STH->execute();
